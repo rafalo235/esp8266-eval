@@ -100,9 +100,9 @@ Text Label 7640 3850 0    50   ~ 0
 ADC
 Text Label 7640 3750 0    50   ~ 0
 RST
-Text Label 7640 3650 0    50   ~ 0
-TXD0
 Text Label 7640 3550 0    50   ~ 0
+TXD0
+Text Label 7640 3650 0    50   ~ 0
 RXD0
 Wire Wire Line
 	7640 4450 7940 4450

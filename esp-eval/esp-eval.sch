@@ -21,7 +21,7 @@ P 9400 1350
 F 0 "J1" H 9427 1326 50  0000 L CNN
 F 1 "ESP-ADAPT-1" H 9427 1235 50  0000 L CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x12_Pitch2.54mm" H 9400 1350 50  0001 C CNN
-F 3 "~" H 9400 1350 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/zl262-12sg/listwy-i-gniazda-kolkowe/connfly/ds1023-1_12s21/" H 9400 1350 50  0001 C CNN
 	1    9400 1350
 	1    0    0    -1  
 $EndComp
@@ -32,7 +32,7 @@ P 9400 2700
 F 0 "J3" H 9373 2580 50  0000 R CNN
 F 1 "ESP-ADAPT-1-DBG" H 9373 2671 50  0000 R CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x12_Pitch2.54mm" H 9400 2700 50  0001 C CNN
-F 3 "~" H 9400 2700 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/zl262-12sg/listwy-i-gniazda-kolkowe/connfly/ds1023-1_12s21/" H 9400 2700 50  0001 C CNN
 	1    9400 2700
 	-1   0    0    1   
 $EndComp
@@ -115,7 +115,7 @@ P 9425 4325
 F 0 "J2" H 9452 4301 50  0000 L CNN
 F 1 "ESP-ADAPT-2" H 9452 4210 50  0000 L CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x12_Pitch2.54mm" H 9425 4325 50  0001 C CNN
-F 3 "~" H 9425 4325 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/zl262-12sg/listwy-i-gniazda-kolkowe/connfly/ds1023-1_12s21/" H 9425 4325 50  0001 C CNN
 	1    9425 4325
 	1    0    0    -1  
 $EndComp
@@ -126,7 +126,7 @@ P 9425 5675
 F 0 "J4" H 9398 5555 50  0000 R CNN
 F 1 "ESP-ADAPT-2-DBG" H 9398 5646 50  0000 R CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x12_Pitch2.54mm" H 9425 5675 50  0001 C CNN
-F 3 "~" H 9425 5675 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/zl262-12sg/listwy-i-gniazda-kolkowe/connfly/ds1023-1_12s21/" H 9425 5675 50  0001 C CNN
 	1    9425 5675
 	-1   0    0    1   
 $EndComp
@@ -207,7 +207,7 @@ P 3650 1525
 F 0 "U1" H 3650 1767 50  0000 C CNN
 F 1 "MCP1700-3302E_SOT23" H 3650 1676 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23" H 3650 1750 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826C.pdf" H 3650 1525 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/mcp1700t3302ett/stabilizatory-napiecia-nieregulowane-ldo/microchip-technology/mcp1700t-3302ett/" H 3650 1525 50  0001 C CNN
 	1    3650 1525
 	1    0    0    -1  
 $EndComp
@@ -475,7 +475,7 @@ P 2650 2975
 F 0 "R2" H 2720 3021 50  0000 L CNN
 F 1 "10k" H 2720 2930 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 2580 2975 50  0001 C CNN
-F 3 "~" H 2650 2975 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 2650 2975 50  0001 C CNN
 	1    2650 2975
 	1    0    0    -1  
 $EndComp
@@ -508,7 +508,7 @@ P 4050 2875
 F 0 "R3" H 4120 2921 50  0000 L CNN
 F 1 "10k" H 4120 2830 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 3980 2875 50  0001 C CNN
-F 3 "~" H 4050 2875 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 4050 2875 50  0001 C CNN
 	1    4050 2875
 	1    0    0    -1  
 $EndComp
@@ -546,7 +546,7 @@ P 4050 3675
 F 0 "R4" H 4120 3721 50  0000 L CNN
 F 1 "10k" H 4120 3630 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 3980 3675 50  0001 C CNN
-F 3 "~" H 4050 3675 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 4050 3675 50  0001 C CNN
 	1    4050 3675
 	1    0    0    -1  
 $EndComp
@@ -572,7 +572,7 @@ P 5100 2875
 F 0 "R6" H 5170 2921 50  0000 L CNN
 F 1 "10k" H 5170 2830 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5030 2875 50  0001 C CNN
-F 3 "~" H 5100 2875 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 5100 2875 50  0001 C CNN
 	1    5100 2875
 	1    0    0    -1  
 $EndComp
@@ -610,7 +610,7 @@ P 5100 3675
 F 0 "R7" H 5170 3721 50  0000 L CNN
 F 1 "10k" H 5170 3630 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5030 3675 50  0001 C CNN
-F 3 "~" H 5100 3675 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 5100 3675 50  0001 C CNN
 	1    5100 3675
 	1    0    0    -1  
 $EndComp
@@ -636,7 +636,7 @@ P 6225 2875
 F 0 "R8" H 6295 2921 50  0000 L CNN
 F 1 "10k" H 6295 2830 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 6155 2875 50  0001 C CNN
-F 3 "~" H 6225 2875 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 6225 2875 50  0001 C CNN
 	1    6225 2875
 	1    0    0    -1  
 $EndComp
@@ -674,7 +674,7 @@ P 6225 3675
 F 0 "R9" H 6295 3721 50  0000 L CNN
 F 1 "10k" H 6295 3630 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 6155 3675 50  0001 C CNN
-F 3 "~" H 6225 3675 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 6225 3675 50  0001 C CNN
 	1    6225 3675
 	1    0    0    -1  
 $EndComp
@@ -704,7 +704,7 @@ P 2625 4725
 F 0 "R1" H 2695 4771 50  0000 L CNN
 F 1 "10k" H 2695 4680 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 2555 4725 50  0001 C CNN
-F 3 "~" H 2625 4725 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 2625 4725 50  0001 C CNN
 	1    2625 4725
 	1    0    0    -1  
 $EndComp
@@ -730,7 +730,7 @@ P 4050 4750
 F 0 "R5" H 4120 4796 50  0000 L CNN
 F 1 "10k" H 4120 4705 50  0000 L CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 3980 4750 50  0001 C CNN
-F 3 "~" H 4050 4750 50  0001 C CNN
+F 3 "https://www.tme.eu/pl/details/smd0805-10k/rezystory-smd-0805/royal-ohm/0805s8j0103t5e/" H 4050 4750 50  0001 C CNN
 	1    4050 4750
 	1    0    0    -1  
 $EndComp
