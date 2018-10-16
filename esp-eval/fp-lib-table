@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name esp-eval)(type KiCad)(uri D:/KiCad-workspace/esp8266-eval/esp-eval)(options "")(descr ""))
+)
